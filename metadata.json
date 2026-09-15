@@ -1,0 +1,8 @@
+{
+  "name": "Parth Academy",
+  "description": "Mobile-first coaching app for Parth Academy featuring study materials, video lectures, weekly & mock tests, results analytics, student profile, attendance, fee tracking, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
